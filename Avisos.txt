@@ -1,0 +1,3 @@
+Todo el programa fue desarrollado en Java usando librerias y aportes de otros compañeros 
+Developers, agradecimientos especiales por las imagenes y librerias compartidas para este
+programa!!!
